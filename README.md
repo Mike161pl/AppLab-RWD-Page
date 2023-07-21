@@ -24,7 +24,7 @@ View the optimal layout for the site depending on their device's screen size
 ## 🔗 links
 
 - solution URL: ([https://github.com/Mike161pl/task-html-and-css-rwd](https://github.com/Mike161pl/AppLab-RWD-Page))
-- Live URL site: (https://mike161pl.github.io/task-html-and-css-rwd/)
+- Live URL site: ([https://mike161pl.github.io/task-html-and-css-rwd/](https://mike161pl.github.io/AppLab-RWD-Page/))
 
 &nbsp;
  
